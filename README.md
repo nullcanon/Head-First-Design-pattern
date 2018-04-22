@@ -9,3 +9,11 @@
 原则：①封装变化　②多用组合，少用继承　③准对接口编程，不针对实现编程
 
 ![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
+
+ - **观察者模式**
+ 
+ 在对象之间定义一对多的关系，这样当一个对象改变状态，依赖它的对象会收到通知，并自动更新。
+ 
+ 原则：为交互对象之间的松耦合设计而努力
+ 
+ ![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
