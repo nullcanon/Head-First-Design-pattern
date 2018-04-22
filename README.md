@@ -3,6 +3,9 @@
 博观而约取，厚积而勃发。从《Head First 设计模式》里面学习一些OO设计模式记录于此。
 
  - **策略模式**
+ 
  策略模式定义了算法族，分别封装起来，让他们之间可以相互替换，此模式让算法的变化独立于使用算法的客户。
 
+原则：①封装变化　②多用组合，少用继承　③准对接口编程，不针对实现编程
 
+![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
