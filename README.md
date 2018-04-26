@@ -20,5 +20,12 @@
  
  ![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
+ - **装饰者模式**
+
+动态的将责任附加到对象上。想要拓展功能，装饰者提供有别于继承的另一种选择。
+
+原则：对拓展开放，对修改关闭
+
+![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
  ###**待续**...
