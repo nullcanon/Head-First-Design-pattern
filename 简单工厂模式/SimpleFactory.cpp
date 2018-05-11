@@ -68,6 +68,9 @@ private:
 //PepperoniPizza
 //...
 
+
+//这个工厂可以被许多客户使用
+//比如其他新开的披萨店
 class SimplePizzaFactoy
 {
 public:
