@@ -1,4 +1,4 @@
-//�򵥹���ģʽ
+//简单工厂
 #include<iostream>
 #include<string>
 using namespace std;
@@ -71,7 +71,9 @@ private:
 class SimplePizzaFactoy
 {
 public:
-	Pizza* createPizza(string type)
+	//静态工厂,可以不需要使用创建对象的方法来实例化对象
+	//缺点是不能通过继承来改变方法的行为
+	static Pizza* createPizza(string type)
 	{
 		if (type == "Cheese")
 			return (new CheesePizza);
