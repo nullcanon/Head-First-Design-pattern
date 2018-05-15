@@ -28,4 +28,8 @@
 
 ![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
+ - **简单工厂模式**
+ 
+![](https://github.com/nullcanon/Head-First-Design-pattern/blob/master/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/UML.jpg)
+
  ###**待续**...
